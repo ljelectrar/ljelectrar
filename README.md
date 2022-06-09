@@ -10,7 +10,7 @@ I’m looking to collaborate on any good projects and I can collaborate not only
 How to reach me:
 
     Send a whastapp message on: +55 012 9 7813 1680
-    Conect with my social media by user id: @ljelectrar
+    Connect with my social media by user ID: @ljelectrar
     I have LinkedIn, Instagram,Tik Tok, Facebook profiles. 
     
     You can send an email: 
