@@ -1,5 +1,5 @@
 Hi, I’m Leandro Jr A Santos @ljelectrar, a young computing teacher and digital marketer with programming skills in HTML & CSS, 
-JS & JQUERY, JAVA environment plataform and GOLANG.
+JS & JQUERY, JAVA environment plataform and .NET
 
 I’m interested in front end projects (currently, I'm working with this too, doing websites from scratch), data science and mobile. 
 
