@@ -22,7 +22,7 @@
 ### My mission is to empower you to achieve your dreams 🎈
 <br />
 Leandro Junior Alves Dos Santos (ljelectrar) <br />
-Java Software Developer | Neuromarketing Specialist, Diplomacy and International Relations | Instructor and multidisciplinar Artist <br />
+Java Software Developer | Neuromarketing Specialist | Diplomacy and International Relations Specialist | Instructor and multidisciplinar Artist <br />
 
 Contact info: <br />
 ljelectrar@outlook.com
