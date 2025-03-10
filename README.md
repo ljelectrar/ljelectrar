@@ -1,6 +1,6 @@
 ### Hi, there! I am Leandro Junior 🎭   ![ljelectrar caricature](https://github.com/ljelectrar/assets/blob/main/branding/ljelectrar-caricature-head%20(2).png)
 <br/><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljelectrar/)[![LinkedIn](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/ljelectrar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ljelectrar/)
 
 ![Ljelectrar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljelectrar&show_icons=true&theme=dark)
 
